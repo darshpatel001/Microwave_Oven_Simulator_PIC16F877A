@@ -133,12 +133,6 @@ Peripherals used:
 ```
 
 ---
-# Microwave Oven Simulator Using PIC16F877A
-
-## Project Demo
-
-[🎥 Watch Demo Video](./Screencast from 2026-06-23 10-22-00.mp4)
----
 
 ## Working Principle
 
@@ -423,11 +417,13 @@ Add screenshots of:
 
 ## Demo Video
 
-```markdown
-## Demo Video
 
-[Watch Demo](Videos/microwave_oven_demo.mp4)
-```
+# Microwave Oven Simulator Using PIC16F877A
+
+## 🎥 Project Demo Video
+
+[Screencast Demo Video](./Screencast%20from%202026-06-23%2010-22-00.mp4)
+
 
 or upload to YouTube and add the link.
 
